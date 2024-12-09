@@ -33,14 +33,14 @@ tbody tr:nth-child(odd) {
     background-color: #bdb76b;
 }
 
-tbody tr td:first-child {
+tbody td:first-child {
     background-color: #04f3f8;
 }
 
-thead tr {
+thead {
     background-color: #ffe4c4;
 }
 
-tfoot tr {
+tfoot {
     background-color: #e9967a;
 }
