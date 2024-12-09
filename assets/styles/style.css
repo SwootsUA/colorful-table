@@ -25,11 +25,11 @@ col:first-child {
     width: 45px;
 }
 
-tbody tr:nth-child(odd) {
+tbody tr:nth-child(even) {
     background-color: #d3d3d3;
 }
 
-tbody tr:nth-child(even) {
+tbody tr:nth-child(odd) {
     background-color: #bdb76b;
 }
 
