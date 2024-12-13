@@ -9,7 +9,8 @@ caption {
     font-size: 1.5em;
 }
 
-span {
+caption::after {
+    content: '#05';
     color: blueviolet;
 }
 
